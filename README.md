@@ -1,6 +1,6 @@
 ## 👋 Olá!
 
-Sou o Vinícius, estudante e desenvolvedor. Gosto de construir ferramentas que resolvem problema de verdade: scrapers, bots e o que mais tirar trabalho repetitivo das costas de alguém.
+Sou o Vinícius, estudante de Ciência da Computação na UFAL. Gosto de construir ferramentas que resolvem problema de verdade: scrapers, bots e o que mais tirar trabalho repetitivo das costas de alguém.
 
 ## 🚀 O que eu faço
 
