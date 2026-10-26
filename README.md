@@ -27,5 +27,5 @@ Por conta própria, gosto de **automação e dados com Python**. Meu projeto pri
 ## 🌐 Onde me encontrar
 
 [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirandaaraujovinicius2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ara%C3%BAjo-miranda-49a3b4254)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-araujo-miranda)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius.__araujo)
